@@ -1,3 +1,18 @@
+# ctrlp-funky · personal fork
+
+> **Fork and attribution notice:** This is Ansel Santosa's fork of [tacahiroy/ctrlp-funky](https://github.com/tacahiroy/ctrlp-funky). The upstream project belongs to its respective maintainers. This section documents my submitted contributions; it is not a claim of authorship of the upstream project.
+
+## My upstream contributions
+
+- **[Improve CSS and SCSS navigation](https://github.com/tacahiroy/ctrlp-funky/pull/72)** · Merged · June 2015. Expanded CSS selector matching, formatted one-line rules for the picker, and added SCSS support.
+
+
+
+
+---
+
+## Original upstream documentation
+
 ctrlp-funky
 ============
 Very simple function navigator for ctrlp.vim.
